@@ -1,0 +1,1 @@
+window.__ENV = {"REACT_APP_URL":"https://api.sunder.finance/airdrop/api","REACT_APP_NETWORK_URL":"https://kovan.infura.io/v3/a17d484065334e38bd8b6475ca266c88","REACT_APP_CHAIN_ID":"42"};
